@@ -1,4 +1,4 @@
-- 👋 Hello, this is Qasim 35 years old a freelance web developer for 7 years. 
+- 👋 Hi, I am Qasim, a freelance web developer for 7 years. 
 - 👀 I’m interested in nodejs + mongodb with a touch of custom front-end no framework all from the scratch.
 - 🌱 I’m currently doing CCNA and AZ 104.
 - 💞️ I’m looking to collaborate on developer role.
