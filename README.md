@@ -1,8 +1,8 @@
-- 👋 Hi, I am Qasim, a freelance web developer for 7 years. 
-- 👀 I’m interested in nodejs + mongodb with a touch of custom front-end no framework all from the scratch.
-- 🌱 I’m currently doing CCNA and AZ 104.
-- 💞️ I’m looking to collaborate on developer role.
-- 📫 Reach me at hello@qasimali.xyz
+- 👋 Hi, welcome to my Github. I am Qasim. I have quit my job to pursue career in Software development. I like to sit in front of dark screen. 
+- 👀 Hiring? I feel confident writing Nodejs + Mongodb aggregation pipelines (these were so hard at some point) + custom front end (however, download the templates to deliver freelance projects).
+- 🌱 Falling in love with Cloud because it is no maintanence | AZ 900 ✓ - AZ 104 - AZ 305 - AZ 204 - AZ 400 and more to come.
+- 💞️ Learning Dockers on Kubernetes on Raspberry Pi 4.
+- 📫 What can we work on together? Reach me at hello@qasimali.xyz.
 
 <!---
 qasim2020/qasim2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
