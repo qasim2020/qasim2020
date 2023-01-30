@@ -1,5 +1,5 @@
 - 👋 Hi. I am Qasim. Recently quit my job to pursue Software development in full. 
-- 👀 Hiring? I feel confident writing Nodejs + Mongodb aggregation pipelines - Falling in love with Cloud because it is no maintanence | AZ 900 ✓ - AZ 104 - AZ 305 - AZ 204 - AZ 400 and more to come - build my own CMS when get time - my projects are live from my private CMS.
+- 👀 Hiring? I feel confident writing Nodejs + Mongodb aggregation pipelines - working in Cloud | AZ 900 ✓ - AZ 104 - AZ 305 - AZ 204 - AZ 400 and more to come - build my own CMS when get time - my projects are live from my private CMS.
 - 💞️ Learning Dockers on Kubernetes on Raspberry Pi 4.
 - 📫 Reach me at hello@qasimali.xyz.
 
