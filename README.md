@@ -1,5 +1,4 @@
-- 👋 Hi. I am Qasim, software developer. 
-- 👀 Hiring? I feel confident writing Nodejs + Mongodb aggregation pipelines - working in Cloud | AZ 900 ✓ - AZ 104 - AZ 305 - AZ 204 - AZ 400 and more to come - build my own CMS when get time - my projects are live from my private CMS.
+- 👋 Hi. I am Qasim, a software developer, from Pakistan now in Stockholm.
 - 📫 Reach me at hello@qasim.tech.
 
 <!---
