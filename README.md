@@ -18,7 +18,7 @@ I am an junior **Full-Stack Web Developer** with hands-on experience in designin
 ## Projects
 
 ### [staging.qasimali.xyz](https://staging.qasimali.xyz) · [Github Repo](https://github.com/qasim2020/playground)
-Playground is my self-built mini-CMS, where I host my websites. Techstack includes Nodejs, MongoDB, Handlebars and Pjax. Deployed on home-lab server with Zero Trust Cloudflare tunnel. SSH with tailscale.
+Playground is my self-built mini-CMS, where I host my websites. Deployed on home-lab server with Zero Trust Cloudflare tunnel. SSH with tailscale.
 - **Technologies**: Node.js, MongoDB, Slack API, Telegram API, Airtable, Cloudinary, NodeMailer
 - **Features**: CKEditor, Brand settings, Table Settings, JSON & rendered HTML options, Newsletter Editing, Subscribers Management
 
