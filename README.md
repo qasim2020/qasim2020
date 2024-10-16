@@ -4,18 +4,23 @@
 
 **Email**: [hello@qasimali.xyz](mailto:hello@qasimali.xyz)  
 **LinkedIn**: [linkedin.com/in/qasimali22](https://linkedin.com/in/qasimali22)  
-**Portfolio**: [staging.qasimali.xyz](http://staging.qasimali.xyz)  
+**Portfolio**: [staging.qasimali.xyz](http://staging.qasimali.xyz/tech)  
 
 ## About Me
-I am an intermediate-level, self-taught **Full-Stack Web Developer** with 5+ years of hands-on experience in designing, building, and deploying websites and web applications. Currently working at easycomply.ai as junior software developer. After 15 years in the Pakistan Army (Communications Corps), I transitioned into software development and relocated to Oslo in April 2024. I am passionate about leveraging technology to solve real-world problems and delivering scalable and efficient web solutions. Currently I am doing Masters in AI (Online) from Lulea University of Technology, Sweden. 
+I am an junior **Full-Stack Web Developer** with hands-on experience in designing, building, and deploying websites and web applications. Currently working as a software developer at [easycomply.ai](https://easycomply.ai) . After 15 years in the Pakistan Army (Communications Corps), I transitioned into software development and relocated to Oslo in April 2024. I am passionate about leveraging technology to solve real-world problems and delivering scalable and efficient web solutions. Currently I am doing Masters in Applied AI (Online) from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
 
 ## Skills
-- **Front-End**: HTML, CSS, JavaScript, jQuery, Handlebars
+- **Front-End**: HTML, CSS, JavaScript, jQuery, Handlebars, Pjax
 - **Back-End**: Node.js, Express.js, MongoDB
-- **UI/UX Design**: Figma, jQuery
-- **Other**: Nginx, Docker, Apache2, Server Management
+- **Server**: Nginx, Docker, Apache2, Server management
+- **Other**: Figma, Webflow, Wordpress
 
 ## Projects
+
+### [staging.qasimali.xyz](https://staging.qasimali.xyz) · [Github Repo](https://github.com/qasim2020/playground)
+Playground is my self-built mini-CMS, where I host my websites. Techstack includes Nodejs, MongoDB, Handlebars and Pjax. Deployed on home-lab server with Zero Trust Cloudflare tunnel. SSH with tailscale.
+- **Technologies**: Node.js, MongoDB, Slack API, Telegram API, Airtable, Cloudinary, NodeMailer
+- **Features**: CKEditor, Brand settings, Table Settings, JSON & rendered HTML options, Newsletter Editing, Subscribers Management
 
 ### [7amUniforms](https://www.7amuniforms.com)
 A business's school-uniform shop website.
