@@ -7,7 +7,7 @@
 **Portfolio**: [staging.qasimali.xyz](http://staging.qasimali.xyz/tech)  
 
 ## About Me
-I am an junior **Full-Stack Web Developer** with hands-on experience in designing, building, and deploying websites and web applications. Currently working as a software developer at [easycomply.ai](https://easycomply.ai) . After 15 years in the Pakistan Army (Communications Corps), I transitioned into software development and relocated to Oslo in April 2024. I am passionate about leveraging technology to solve real-world problems and delivering scalable and efficient web solutions. Currently I am doing Masters in Applied AI (Online) from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
+I am an junior Full-Stack Web Developer with experience in designing, building, and deploying websites and web applications. Currently working as a software developer at [easycomply.ai](https://easycomply.ai) . After 15 years in the Pakistan Army (Communications Corps), I transitioned into software development and relocated to Oslo in April 2024. I am passionate about leveraging technology to solve real-world problems and delivering scalable and efficient web solutions. Currently I am doing Masters in Applied AI (Online) from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
 
 ## Skills
 - **Front-End**: HTML, CSS, JavaScript, jQuery, Handlebars, Pjax
