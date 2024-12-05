@@ -10,7 +10,7 @@
 **LinkedIn**: [linkedin.com/in/qasimali22](https://linkedin.com/in/qasimali22)  
 
 ## About Me
-I am a Full-Stack Web Developer with experience in designing, building, and deploying web applications. Currently working as a software developer at [easycomply.ai](https://easycomply.ai) . After 15 years in Pakistan Army, I transitioned into software development and relocated to Oslo in April 2024. Currently, doing Masters in Applied AI (Online) from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
+I am a Full-Stack Web Developer with experience in designing, building, and deploying web applications. Currently working as a software developer at [akeurope.org](https://akeurope.org) . After 15 years in Pakistan Army, I transitioned into software development and relocated to Oslo in April 2024. Currently, doing Masters in Applied AI (Online) from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
 
 ## Skills
 - **Front-End**: JavaScript, jQuery, Handlebars
