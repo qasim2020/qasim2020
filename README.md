@@ -14,7 +14,8 @@ I am a Full-Stack Web Developer with experience in designing, building, and depl
 
 ## Skills
 - **Front-End**: JavaScript, jQuery, Handlebars
-- **Back-End**: Node.js, Express.js, MongoDB 
+- **Back-End**: Node.js, Express.js, MongoDB
+- **Machine Learning/ Robotics**: Python, Matlab
 - **Server**: Nginx, Docker, Apache2
 - **Other**: Figma, Webflow, Wordpress
 
