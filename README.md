@@ -2,19 +2,20 @@
 
 [Currently working on this](https://github.com/qasim2020/akeurope-db/issues/3)
 
+<img width="802" alt="Screenshot 2024-12-05 at 2 34 13 AM" src="https://github.com/user-attachments/assets/0a4e16c5-e67e-4988-a9d8-152e38665724">
+
 **Location**: Oslo, Norway
 
 **Email**: [hello@qasimali.xyz](mailto:hello@qasimali.xyz)  
 **LinkedIn**: [linkedin.com/in/qasimali22](https://linkedin.com/in/qasimali22)  
-**Portfolio**: [staging.qasimali.xyz](http://staging.qasimali.xyz/tech)  
 
 ## About Me
-I am a Full-Stack Web Developer with experience in designing, building, and deploying websites and web applications. Currently working as a software developer at [easycomply.ai](https://easycomply.ai) . After 15 years in the Pakistan Army (Communications Corps), I transitioned into software development and relocated to Oslo in April 2024. I am passionate about leveraging technology to solve real-world problems and delivering scalable and efficient web solutions. Currently I am doing Masters in Applied AI (Online) from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
+I am a Full-Stack Web Developer with experience in designing, building, and deploying web applications. Currently working as a software developer at [easycomply.ai](https://easycomply.ai) . After 15 years in Pakistan Army, I transitioned into software development and relocated to Oslo in April 2024. Currently, doing Masters in Applied AI (Online) from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
 
 ## Skills
-- **Front-End**: HTML, CSS, JavaScript, jQuery, Handlebars, Pjax
-- **Back-End**: Node.js, Express.js, MongoDB
-- **Server**: Nginx, Docker, Apache2, Server management
+- **Front-End**: JavaScript, jQuery, Handlebars
+- **Back-End**: Node.js, Express.js, MongoDB 
+- **Server**: Nginx, Docker, Apache2
 - **Other**: Figma, Webflow, Wordpress
 
 ## Projects
@@ -60,11 +61,6 @@ A traffic control solution for military check posts.
 
 - **Bachelors in Electrical (Telecommunications) Engineering**  
   National University of Sciences and Technology (NUST), Pakistan
-
-## Certifications
-- **AZ-900** - Microsoft  
-- **Basic Web Development** - Udemy  
-- **NodeJS Development** - Udemy
 
 ## Contact
 Feel free to reach out to me via email at [hello@qasimali.xyz](mailto:hello@qasimali.xyz) or connect with me on [LinkedIn](https://linkedin.com/in/qasimali22).
