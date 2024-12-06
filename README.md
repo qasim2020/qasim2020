@@ -2,8 +2,6 @@
 
 [Currently working on this](https://github.com/qasim2020/akeurope-db/issues/3)
 
-<img width="802" alt="Screenshot 2024-12-05 at 2 34 13 AM" src="https://github.com/user-attachments/assets/0a4e16c5-e67e-4988-a9d8-152e38665724">
-
 **Location**: Oslo, Norway
 
 **Email**: [hello@qasimali.xyz](mailto:hello@qasimali.xyz)  
