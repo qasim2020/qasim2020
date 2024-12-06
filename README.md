@@ -8,7 +8,7 @@ Full-Stack Web Developer. Working as a software developer at [akeurope.org](http
 
 **Email**: [hello@qasimali.xyz](mailto:hello@qasimali.xyz)  
 **LinkedIn**: [linkedin.com/in/qasimali22](https://linkedin.com/in/qasimali22)  
-**Blogs**: [qasimali.xyz](https://staging.qasimali.xyz/life/gen/page/blogs/n)
+**Blogs**: [staging.qasimali.xyz/life](https://staging.qasimali.xyz/life/gen/page/blogs/n)
 
 - **Front-End**: JavaScript, jQuery, Handlebars
 - **Back-End**: Node.js, Express.js, MongoDB
