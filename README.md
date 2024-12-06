@@ -1,4 +1,4 @@
-# 🇵🇰🇸🇪🇳🇴
+# 🇵🇰🇸🇪🇳🇴(🇦🇺)
 
 Full-Stack Web Developer. Working as a software developer at [akeurope.org](https://akeurope.org) . Also studying Masters in Applied AI (Online) from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
 
