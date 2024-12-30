@@ -1,6 +1,6 @@
 # 🇵🇰🇸🇪🇳🇴 → 🇦🇺
 
-Full-Stack Javascript Developer. Working as a software developer at [akeurope.org](https://akeurope.org) . Also studying Masters in Applied AI (Online) from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
+Full-Stack Developer. Software developer at [akeurope.org](https://akeurope.org). Studying Masters in Applied AI (Online) from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
 
 [Currently working on this](https://github.com/qasim2020/akeurope-db/issues/3)
 
