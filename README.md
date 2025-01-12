@@ -2,7 +2,8 @@
 
 Full-Stack Developer. Software developer at [akeurope.org](https://akeurope.org). Studying Masters in Applied AI (Online) from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
 
-[Currently working on this](https://github.com/qasim2020/akeurope-db/issues/3)
+[Currently working on this](https://github.com/qasim2020/akeurope-cp/issues/1)
+
 
 **Location**: Oslo, Norway
 
