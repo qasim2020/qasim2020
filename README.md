@@ -2,9 +2,6 @@
 
 Full-Stack Developer at [akeurope.org](https://akeurope.org). Studying Masters in Applied AI (Online) from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
 
-[Currently working on this](https://github.com/qasim2020/akeurope-cp/issues/1)
-
-
 **Location**: Oslo, Norway
 
 **Email**: [hello@qasimali.xyz](mailto:hello@qasimali.xyz)  
