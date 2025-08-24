@@ -3,8 +3,11 @@
 Ex military- pink- developer
 
 CEO at [techshek](https://x.com/techshekHQ)
+
 CTO at [akeurope.org](https://akeurope.org)
+
 CTO at [dedicatedparents.org](https://dedicatedparents.org)
+
 CTO at [ilearninghubb.com](https://ilearninghubb.com)
 
 ~ Masters in Applied AI from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
