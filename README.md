@@ -14,4 +14,4 @@ CTO at [Dedicated Parents](https://dedicatedparents.org) <br>
 **X**: [qasimnorway](https://x.com/@qasimnorway) <br>
 **LinkedIn**: [qasimali22](https://linkedin.com/in/qasimali22) <br>
 
-Thank you for attention to this matter. 
+Thank you for your attention to this matter. 
