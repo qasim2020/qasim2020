@@ -4,7 +4,6 @@ Ex military- PINK- developer
 
 CEO at [TechShek](https://x.com/techshekHQ) <br>
 CTO at [Defence Properties](https://staging.qasim.no/chodhry/gen/page/landingPage/n) <br>
-CTO at [Dedicated Parents](https://dedicatedparents.org) <br>
 SE at [Alkhidmat Europe](https://akeurope.org) <br>
 CTO at [I Learning Hub](https://ilearninghubb.com)
 
