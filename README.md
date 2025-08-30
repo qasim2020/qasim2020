@@ -15,4 +15,4 @@ CTO at [I Learning Hub](https://ilearninghubb.com)
 **X**: [qasimnorway](https://x.com/@qasimnorway) <br>
 **LinkedIn**: [qasimali22](https://linkedin.com/in/qasimali22) <br>
 
-Thank you for your attention to this matter. 
+🙂
