@@ -4,7 +4,7 @@ Ex military- PINK- developer
 
 CEO at [TechShek](https://x.com/techshekHQ) <br>
 CTO at [Defence Properties](https://staging.qasim.no/chodhry/gen/page/landingPage/n) <br>
-SE at [Alkhidmat Europe](https://akeurope.org) <br>
+CTO at [Alkhidmat Europe](https://akeurope.org) <br>
 CTO at [I Learning Hub](https://ilearninghubb.com)
 
 ~ Masters in Applied AI from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
