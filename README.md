@@ -1,6 +1,8 @@
-# 🇵🇰🇸🇪🇳🇴🇦🇺🇺🇸
+# 🇵🇰🇳🇴🇸🇪🇦🇺🇺🇸
 
 Ex military- PINK- developer
+
+Loves Greta ❤️
 
 CEO at [TechShekHQ](https://x.com/techshekHQ) <br>
 CTO at [Defence Properties](https://staging.qasim.no/chodhry/gen/page/landingPage/n) <br>
