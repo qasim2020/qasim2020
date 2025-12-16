@@ -2,10 +2,10 @@
 
 Ex Military- Systems- Developer
 
-[TechShekHQ](https://x.com/techshekHQ) <br>
 [Defence Properties](https://staging.qasim.no/chodhry/gen/page/landingPage/n) <br>
 [I Learning Hub](https://ilearninghubb.com) <br>
 [Dedicated Parents](https://dedicatedparents.org) <br>
+[TechShekHQ](https://x.com/techshekHQ) <br>
 
 ~ Masters in Applied AI from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
 
