@@ -1,11 +1,8 @@
-# 🇵🇰🇸🇪🇳🇴🇺🇸🇦🇺
+# Ex Military- Systems- Developer
 
-Ex Military- Systems- Developer
-
-[Defence Properties](https://staging.qasim.no/chodhry/gen/page/landingPage/n) <br>
+[Alkhidmat Europe](https://akeurope.org) <br>
 [I Learning Hub](https://ilearninghubb.com) <br>
 [Dedicated Parents](https://dedicatedparents.org) <br>
-[TechShekHQ](https://x.com/techshekHQ) <br>
 
 ~ Masters in Applied AI from [Lulea University of Technology, Sweden](https://www.ltu.se/en). 
 
